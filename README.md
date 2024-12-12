@@ -12,7 +12,7 @@ An exciting educational game where you catch letters while driving a car! Sharpe
 
 ## 🚀 Live Demo  
 Ready to play?  
-<a href="https://rony7s.github.io/CarDriving/" style="text-decoration: none; color: brown;"><h2>👉 Play Now 👈</h2></a>  
+<a href="https://rony7s.github.io/CarDriving/"> 👉 Play Now 👈 </a>  
 
 ---
 
